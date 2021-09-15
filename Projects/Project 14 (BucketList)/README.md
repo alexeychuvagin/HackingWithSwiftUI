@@ -10,3 +10,9 @@ To make all that work will mean leveraging some skills you’ve met already, suc
 ## Summary
 
 This was our biggest project yet, but we’ve covered a huge amount of ground: adding Comparable to custom types, finding the documents directory, integrating MapKit, using biometric authentication, secure Data writing, and much more. And of course you have another real app, and hopefully you’re able to complete the challenges below to take it further.
+
+## Preview
+
+![Image 1](/Images/image-1.png)
+![Image 2](/Images/image-2.png)
+![Image 3](/Images/image-3.png)

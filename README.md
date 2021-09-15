@@ -3,6 +3,6 @@
 
 ## Projects
 
-14. [Bucket List](https://github.com/alexeychuvagin/HackingWithSwiftUI/tree/master/Projects/Project%2014%20(BucketList))
+14. [Bucket List](https://github.com/alexeychuvagin/HackingWithSwiftUI/tree/master/Projects/Project%2014%20(BucketList)) (MapKit, Touch ID, Face ID)
 
 ## Challenges

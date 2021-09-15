@@ -13,6 +13,8 @@ This was our biggest project yet, but we’ve covered a huge amount of ground: a
 
 ## Preview
 
-<img src="./Images/image-1.png" width="300">
-<img src="./Images/image-2.png" width="300">
-<img src="./Images/image-3.png" width="300">
+<p float="left">
+    <img src="./Images/image-1.png" width="300">
+    <img src="./Images/image-2.png" width="300">
+    <img src="./Images/image-3.png" width="300">
+<p float="left">

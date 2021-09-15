@@ -13,6 +13,6 @@ This was our biggest project yet, but we’ve covered a huge amount of ground: a
 
 ## Preview
 
-![Image 1](/Images/image-1.png)
-![Image 2](/Images/image-2.png)
-![Image 3](/Images/image-3.png)
+![Image 1](./Images/image-1.png)
+![Image 2](./Images/image-2.png)
+![Image 3](./Images/image-3.png)

@@ -66,7 +66,7 @@ struct AddAcquaintanceView: View {
 struct AcquaintanceDetails_Previews: PreviewProvider {
     static var previews: some View {
         NavigationView {
-            AddAcquaintanceView(vm: AddAcquaintanceViewModel(image: Image("profile-test")))
+            AddAcquaintanceView(vm: AddAcquaintanceViewModel(image: Acquaintance.stub_first.image))
         }
     }
 }

@@ -9,10 +9,10 @@ import SwiftUI
 
 struct MapButton: View {
     var image: Image
-    var onClick: () -> Void
+    var onTap: () -> Void
     
     var body: some View {
-        Button(action: self.onClick) {
+        Button(action: self.onTap) {
             image
                 .padding()
                 .background(Color.black.opacity(0.75))
@@ -26,6 +26,6 @@ struct MapButton: View {
 
 struct MapButton_Previews: PreviewProvider {
     static var previews: some View {
-        MapButton(image: Image(systemName: "location"), onClick: { print("clicked") })
+        MapButton(image: Image(systemName: "location"), onTap: { print("tapped") })
     }
 }

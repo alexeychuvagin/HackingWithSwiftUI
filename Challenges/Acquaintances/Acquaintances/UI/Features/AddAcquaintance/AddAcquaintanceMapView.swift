@@ -41,7 +41,7 @@ struct AddAcquaintanceMapView: View {
                 
                 HStack {
                     Spacer()
-                    MapButton(image: Image(systemName: "location"), onClick: {
+                    MapButton(image: Image(systemName: "location"), onTap: {
                         self.showUserLocation = true
                         self.centerCoordinate = locationFecther.getLastKnownLocation() ?? CLLocationCoordinate2D()
                     })
@@ -49,7 +49,7 @@ struct AddAcquaintanceMapView: View {
                 
                 HStack {
                     Spacer()
-                    MapButton(image: Image(systemName: "plus"), onClick: {
+                    MapButton(image: Image(systemName: "plus"), onTap: {
                         self.currentLocation = self.centerCoordinate
                         self.presentationMode.wrappedValue.dismiss()
                     })

@@ -8,4 +8,4 @@
 
 ## Challenges
 
-1. [Acquaintances](https://github.com/alexeychuvagin/HackingWithSwiftUI/tree/master/Challenges/Acquaintances) (MapKit, Combine, Location)
+1. [Acquaintances](https://github.com/alexeychuvagin/HackingWithSwiftUI/tree/master/Challenges/Acquaintances) (MapKit, Combine, Location, ImagePicker)

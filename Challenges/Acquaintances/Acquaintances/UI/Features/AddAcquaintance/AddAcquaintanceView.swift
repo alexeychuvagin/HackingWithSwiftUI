@@ -28,7 +28,7 @@ struct AddAcquaintanceView: View {
                     Text(vm.location == nil ? "Add location" : "Location added")
                     Image(systemName: vm.location == nil ? "location.slash" : "location")
                 }
-                .foregroundColor(vm.location == nil ? .blue : Color.green)
+                .foregroundColor(vm.location == nil ? .blue : .green)
             }
             
             Form {

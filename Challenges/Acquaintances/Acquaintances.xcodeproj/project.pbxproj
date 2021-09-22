@@ -178,8 +178,8 @@
 		FA5C529126F3BFAC00B4E825 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				FA5C527D26F3B5B700B4E825 /* Assets.xcassets */,
 				FA5C527F26F3B5B700B4E825 /* Preview Content */,
+				FA5C527D26F3B5B700B4E825 /* Assets.xcassets */,
 				FA5C528726F3B5B700B4E825 /* Info.plist */,
 			);
 			path = Resources;

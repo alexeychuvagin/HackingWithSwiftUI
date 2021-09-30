@@ -18,4 +18,4 @@ Your goal is to build an app that asks users to import a picture from their phot
 
 ## Preview
 
-<img src="./Images/preview.gif" width="300">
+<img src="./Preview/preview.gif" width="300">

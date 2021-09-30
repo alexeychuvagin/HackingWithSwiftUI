@@ -5,6 +5,7 @@
 
 14. [Bucket List](https://github.com/alexeychuvagin/HackingWithSwiftUI/tree/master/Projects/Project%2014%20(BucketList)) (MapKit, Touch ID, Face ID)
 15. [Accessibility](https://github.com/alexeychuvagin/HackingWithSwiftUI/tree/master/Projects/Project%2015%20(Accessibility)) (Accessibility)
+16. [Hot Prospects](https://github.com/alexeychuvagin/HackingWithSwiftUI/tree/master/Projects/Project%2016%20(HotProspects)) (TabView, ContextMenu, QR Code, Local Notifications)
 
 ## Challenges
 
